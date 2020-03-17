@@ -11,9 +11,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 Lista de projetos em Jupyter Notebook:
 * __Titanic:__ http://bit.ly/38fR9SZ
 * __AirBnB:__ http://bit.ly/39yhYCl
-
-
-
+* __Violência Rio:__ http://bit.ly/2QlTkxi
 
 
 
