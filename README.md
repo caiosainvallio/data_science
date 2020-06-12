@@ -9,7 +9,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 
 ## Projetos de Data Science aplicados à área da saúde:
 Lista de projetos em Jupyter Notebook:
-* __Eplepsia:__ [link]()
+* __Eplepsia:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao_eplepsia.ipynb)
 
 ## Projetos de Data Science em assuntos gerais:
 Lista de projetos em Jupyter Notebook:
