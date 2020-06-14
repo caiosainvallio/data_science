@@ -9,6 +9,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 
 ## Projetos de Data Science aplicados à área da saúde:
 Lista de projetos em Jupyter Notebook:
+* __Previsão de óbito por hepatite:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao-hepatite.ipynb)
 * __Previsão de Epilepsia:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao_eplepsia.ipynb)
 * __Previsão de AVC:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao-avc.ipynb)
 
