@@ -12,6 +12,7 @@ Lista de projetos em Jupyter Notebook:
 * __Previsão de óbito por hepatite:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao-hepatite.ipynb)
 * __Previsão de Epilepsia:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao_eplepsia.ipynb)
 * __Previsão de AVC:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao-avc.ipynb)
+* __Visualização:__ [link](https://github.com/caiosainvallio/data_science/blob/master/teds-d_visualizacao.ipynb)
 
 ## Projetos de Data Science em assuntos gerais:
 Lista de projetos em Jupyter Notebook:
