@@ -11,6 +11,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 * __Previsão de óbito por hepatite:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao-hepatite.ipynb)
 * __Previsão de custos médicos:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao-custos.ipynb)
 * __Medicamentos falsificados:__ [link](https://github.com/caiosainvallio/data_science/blob/master/medicamentos_falsificados.ipynb)
+* __Previsão de readmissão:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao-registros-eletronicos.ipynb)
 * __Previsão de Epilepsia:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao_eplepsia.ipynb)
 * __Previsão de infarto:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao-infarto.ipynb)
 * __Previsão de AVC:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao-avc.ipynb)
