@@ -21,7 +21,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 * __Titanic:__ [link](http://bit.ly/38fR9SZ)
 * __AirBnB:__ [link](http://bit.ly/39yhYCl)
 * __Violência Rio:__ [link](http://bit.ly/2QlTkxi)
-
+* __Testando uma Rede Neural Convolucional:__ [link](https://github.com/caiosainvallio/data_science/blob/master/testando%20uma%20CNN.ipynb)
 
 
 
