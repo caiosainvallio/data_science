@@ -17,6 +17,9 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 * __Previsão de AVC:__ [link](https://github.com/caiosainvallio/data_science/blob/master/previsao-avc.ipynb)
 * __Visualização:__ [link](https://github.com/caiosainvallio/data_science/blob/master/teds-d_visualizacao.ipynb)
 
+## Pojetos de Deep Learning aplicados à área da saúde:
+* __Detecção de câncer de pulmão:__ [link](https://github.com/caiosainvallio/data_science/blob/master/predict_pulmao.ipynb)
+
 ## Projetos de Data Science em assuntos gerais:
 * __Titanic:__ [link](http://bit.ly/38fR9SZ)
 * __AirBnB:__ [link](http://bit.ly/39yhYCl)
