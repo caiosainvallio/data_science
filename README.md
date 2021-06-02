@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="/img/img_readme_sup.JPEG" >
-</p>
-
-
-
-
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
 ## Projetos de Data Science aplicados à área da saúde:
@@ -25,9 +18,3 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 * __AirBnB:__ [link](http://bit.ly/39yhYCl)
 * __Violência Rio:__ [link](http://bit.ly/2QlTkxi)
 * __Testando uma Rede Neural Convolucional:__ [link](https://github.com/caiosainvallio/data_science/blob/master/testando%20uma%20CNN.ipynb)
-
-
-
-<p align="center">
-  <img src="/img/img_readme_inf.JPEG" >
-</p>
